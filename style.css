@@ -2,6 +2,12 @@ body{
     margin: 0px;
 }
 
+.logo{
+    width: 600px;
+    height: 250px;
+    
+}
+
 * {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
